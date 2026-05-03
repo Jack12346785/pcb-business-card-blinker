@@ -1,4 +1,4 @@
-[blinker_card_gerbers.zip](https://github.com/user-attachments/files/27315251/blinker_card_gerbers.zip)
+
 # Bill of Materials
 
 ## Core Components
