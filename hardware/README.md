@@ -11,7 +11,7 @@ This folder contains the core hardware definition for the `PCB Business Card Bli
 
 ## Files
 
-- `schematic.md` high-level circuit design
+- `schematic.md` high level circuit design
 - `connections.md` exact electrical connections
 - `board notes.md` PCB layout guidance
 
