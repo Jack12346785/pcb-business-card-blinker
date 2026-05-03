@@ -1,0 +1,19 @@
+## Ordering from JLCPCB
+
+Upload `blinker_card_gerbers.zip` to [jlcpcb.com](https://jlcpcb.com) and use these settings:
+
+| Setting | Value |
+|---|---|
+| Base Material | FR-4 |
+| Layers | 2 |
+| Dimensions | 85.6 × 54 mm |
+| PCB Qty | 5 |
+| PCB Thickness | 1.6mm |
+| PCB Color | Black *(looks best as a business card)* |
+| Silkscreen | White |
+| Surface Finish | HASL (lead-free) — or ENIG for gold |
+| Outer Copper Weight | 1 oz |
+| Via Covering | Tented |
+| Remove Order Number | Specify a location |
+
+> ~$2 for 5 boards + ~£3–5 shipping to the UK. Arrives in about a week.
