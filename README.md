@@ -1,6 +1,6 @@
 # PCB Business Card Blinker
 
-A beginner-friendly electronics project for making a simple PCB business card with LEDs, a coin cell battery, and a push button.
+A beginner friendly electronics project for making a simple PCB business card with LEDs, a coin cell battery, and a push button.
 
 ## Overview
 
